@@ -22,5 +22,6 @@ fetch("*** Write the API address here ***")
     return response.text();
   })
   .then(function (greeting) {
+    
     // Write the code to display the greeting text here
   });
